@@ -18,8 +18,8 @@ function Navbar() {
       <div className="text-right flex justify-end w-full h-fit p-[10px] gap-[20px]">
         <MdOutlineFacebook className="w-[25px] h-[25px] cursor-pointer text-white hover:text-black" />
         <FaInstagram className="w-[25px] h-[25px] cursor-pointer text-white hover:text-black" />
-        <FaTiktok className="w-[25px] h-[20px] cursor-pointer text-white hover:text-black" />
-        <FaGithub className="w-[23px] h-[25px] cursor-pointer text-white hover:text-black" />
+        <FaTiktok className="w-[22px] h-[22px] cursor-pointer text-white hover:text-black" />
+        <FaGithub className="w-[24px] h-[24px] cursor-pointer text-white hover:text-black" />
       </div>
     </div>
   );
