@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 
 function Navbar() {
   return (
-    <div className="w-full h-fit bg-[#d6a97c] flex poppins-extralight gap-[10px] shadow-md fixed">
+    <div className="w-full h-fit bg-[#d6a97c] flex poppins-extralight gap-[10px] shadow-md fixed p-[10px] z-10">
       <div className="justify-evenly w-full h-fit p-[10px] gap-[10px]">
         <ul className="flex justify-start items-center gap-[50px] text-[20px] text-white">
           <li className="cursor-pointer hover:underline">Home</li>
